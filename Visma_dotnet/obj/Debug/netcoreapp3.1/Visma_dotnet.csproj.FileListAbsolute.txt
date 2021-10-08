@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\Visma_dotnet\Visma_dotnet\bin\Debug\netcoreapp3.1\Visma_dotnet.exe
+C:\Users\Admin\source\repos\Visma_dotnet\Visma_dotnet\bin\Debug\netcoreapp3.1\Visma_dotnet.deps.json
+C:\Users\Admin\source\repos\Visma_dotnet\Visma_dotnet\bin\Debug\netcoreapp3.1\Visma_dotnet.runtimeconfig.json
+C:\Users\Admin\source\repos\Visma_dotnet\Visma_dotnet\bin\Debug\netcoreapp3.1\Visma_dotnet.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Visma_dotnet\Visma_dotnet\bin\Debug\netcoreapp3.1\Visma_dotnet.dll
+C:\Users\Admin\source\repos\Visma_dotnet\Visma_dotnet\bin\Debug\netcoreapp3.1\Visma_dotnet.pdb
+C:\Users\Admin\source\repos\Visma_dotnet\Visma_dotnet\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Admin\source\repos\Visma_dotnet\Visma_dotnet\obj\Debug\netcoreapp3.1\Visma_dotnet.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Visma_dotnet\Visma_dotnet\obj\Debug\netcoreapp3.1\Visma_dotnet.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Visma_dotnet\Visma_dotnet\obj\Debug\netcoreapp3.1\Visma_dotnet.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Visma_dotnet\Visma_dotnet\obj\Debug\netcoreapp3.1\Visma_dotnet.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Visma_dotnet\Visma_dotnet\obj\Debug\netcoreapp3.1\Visma_dotnet.csproj.CopyComplete
+C:\Users\Admin\source\repos\Visma_dotnet\Visma_dotnet\obj\Debug\netcoreapp3.1\Visma_dotnet.dll
+C:\Users\Admin\source\repos\Visma_dotnet\Visma_dotnet\obj\Debug\netcoreapp3.1\Visma_dotnet.pdb
+C:\Users\Admin\source\repos\Visma_dotnet\Visma_dotnet\obj\Debug\netcoreapp3.1\Visma_dotnet.genruntimeconfig.cache
